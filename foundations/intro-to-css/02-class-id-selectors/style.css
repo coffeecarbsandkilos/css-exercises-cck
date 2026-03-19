@@ -5,7 +5,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.more-attention {
+.enlarge-font-24 {
     font-size: 24px;  
 }
 
@@ -16,6 +16,5 @@
 
 #green {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
